@@ -1,0 +1,30 @@
+@font-face {
+	font-family: 'LXGWWenKai';
+	src: url('LXGWWenKai-Regular.ttf');
+	font-weight: regular;
+}
+@font-face {
+	font-family: 'LXGWWenKai';
+	src: url('LXGWWenKai-Light.ttf');
+	font-weight: light;
+}
+@font-face {
+	font-family: 'LXGWWenKai';
+	src: url('LXGWWenKai-Bold.ttf');
+	font-weight: bold;
+}
+@font-face {
+	font-family: 'LXGWWenKai Mono';
+	src: url('LXGWWenKaiMono-Regular.ttf');
+	font-weight: regular;
+}
+@font-face {
+	font-family: 'LXGWWenKai Mono';
+	src: url('LXGWWenKaiMono-Light.ttf');
+	font-weight: light;
+}
+@font-face {
+	font-family: 'LXGWWenKai Mono';
+	src: url('LXGWWenKaiMono-Bold.ttf');
+	font-weight: bold;
+}
