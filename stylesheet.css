@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'LXGWWenKai';
+    src: url('LXGWWenKai-Bold.woff2') format('woff2'),
+        url('LXGWWenKai-Bold.woff') format('woff'),
+        url('LXGWWenKai-Bold.ttf') format('truetype');
+    font-weight: regular;
+    font-style: normal;
+    font-display: swap;
+}
+
